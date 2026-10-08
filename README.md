@@ -1,0 +1,2 @@
+# berth_scheduling_optimizer
+港口泊位智能调度系统：基于开源大模型与MILP的智能调度顾问，支持连续泊位与岸桥联动。
